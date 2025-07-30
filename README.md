@@ -31,12 +31,6 @@ Interact with the chatbot by running the `chatbot.py` script and following the p
 * API keys: Ensure you have a valid *Cohere* API key
 * Environment variables: Set the `COHERE_API_KEY` environment variable
 
-## Contributing
-Contributions are welcome! Please submit a pull request with your changes.
-
-## License
-*This project is licensed under the MIT License*
-
 ## Project Structure
 The project consists of the following files:
 * `chatbot.py`: The main chatbot script
